@@ -1,5 +1,2 @@
 # esx_clip
-Gestion des chargeurs pour esx
-Ajouter l'item clip dans la bbd.
-Il suffit de faire utiliser le chargeur dans l'inventaire. Le chargeur remet 25 balles dans l'arme que le joueur tiens en main
-Fonctionne avec toutes les armes sauf les armes de type explosive
+Az esx betöltőinek kezelése Adja hozzá az itemet a bbd-hez. Csak használja a rakodót a készletben. A item 25 golyót helyez vissza a játékos által tartott fegyverbe. Minden fegyverrel működik, kivéve a robbanó típusú fegyvereket
